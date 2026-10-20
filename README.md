@@ -37,3 +37,7 @@ For phone reminders, set `Config.ExpiryReminders.phone` to `auto`, `sd_phone`, `
 - Reminders send once per expiry when fewer than 3 days remain.
 
 Back up rental tables and ox_inventory data together. Test payments, storage, and phone delivery before going live.
+
+## Report Issues
+
+Report bugs and issues on [GitHub Issues](https://github.com/ThakkuGod/tg_lockersystem/issues).
